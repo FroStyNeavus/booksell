@@ -1,4 +1,4 @@
-package com.booksell.booksell;
+package com.booksell;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
