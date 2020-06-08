@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.Booksell.factories;
+package com.booksell.factories;
 
 
-import com.Booksell.modele.Annonce;
+import com.booksell.modele.Annonce;
 
 import java.util.UUID;
 

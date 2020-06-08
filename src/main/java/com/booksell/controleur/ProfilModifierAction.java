@@ -1,9 +1,9 @@
-package com.Booksell.controleur;
+package com.booksell.controleur;
 
-import com.Booksell.dao.UtilisateurDAO;
-import com.Booksell.modele.AbstractAction;
-import com.Booksell.modele.ConnectionManager;
-import com.Booksell.modele.Utilisateur;
+import com.booksell.dao.UtilisateurDAO;
+import com.booksell.modele.AbstractAction;
+import com.booksell.modele.ConnectionManager;
+import com.booksell.modele.Utilisateur;
 
 import javax.servlet.http.HttpSession;
 

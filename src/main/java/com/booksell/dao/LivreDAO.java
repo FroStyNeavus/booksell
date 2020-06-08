@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.Booksell.dao;
+package com.booksell.dao;
 
-import com.Booksell.modele.ConnectionManager;
-import com.Booksell.modele.Livre;
+import com.booksell.modele.ConnectionManager;
+import com.booksell.modele.Livre;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

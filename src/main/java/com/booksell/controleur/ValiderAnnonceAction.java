@@ -1,9 +1,9 @@
-package com.Booksell.controleur;
+package com.booksell.controleur;
 
-import com.Booksell.dao.LivreDAO;
-import com.Booksell.modele.AbstractAction;
-import com.Booksell.modele.ConnectionManager;
-import com.Booksell.modele.Livre;
+import com.booksell.dao.LivreDAO;
+import com.booksell.modele.AbstractAction;
+import com.booksell.modele.ConnectionManager;
+import com.booksell.modele.Livre;
 
 import java.util.LinkedList;
 import java.util.List;

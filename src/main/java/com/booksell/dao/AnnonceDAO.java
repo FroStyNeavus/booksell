@@ -1,9 +1,9 @@
-package com.Booksell.dao;
+package com.booksell.dao;
 
-import com.Booksell.modele.Annonce;
-import com.Booksell.modele.AnnonceDTO;
-import com.Booksell.modele.Livre;
-import com.Booksell.modele.Utilisateur;
+import com.booksell.modele.Annonce;
+import com.booksell.modele.AnnonceDTO;
+import com.booksell.modele.Livre;
+import com.booksell.modele.Utilisateur;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

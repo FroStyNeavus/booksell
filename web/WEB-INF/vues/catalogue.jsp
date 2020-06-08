@@ -1,5 +1,5 @@
 <%@ page import="java.util.ArrayList" %>
-<%@ page import="com.Booksell.modele.Livre" %>
+<%@ page import="com.booksell.modele.Livre" %>
 <%@ page import="java.util.LinkedList" %><%--
   Created by IntelliJ IDEA.
   User: dead

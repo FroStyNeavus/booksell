@@ -3,18 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.Booksell.controleur;
+package com.booksell.controleur;
 
-import com.Booksell.dao.AnnonceDAO;
-import com.Booksell.factories.ErreurManager;
-import com.Booksell.modele.AbstractAction;
-import com.Booksell.modele.AnnonceDTO;
-import com.Booksell.modele.ConnectionManager;
-import com.Booksell.modele.Utilisateur;
+import com.booksell.dao.AnnonceDAO;
+import com.booksell.factories.ErreurManager;
+import com.booksell.modele.AbstractAction;
+import com.booksell.modele.AnnonceDTO;
+import com.booksell.modele.ConnectionManager;
+import com.booksell.modele.Utilisateur;
 
-import java.util.LinkedList;
-import java.util.List;
 import javax.servlet.http.HttpSession;
+import java.util.List;
 
 /**
  * @author Mu Tian Wang

@@ -6,6 +6,12 @@
 package com.booksell.controleur;
 
 
+import com.booksell.dao.AnnonceDAO;
+import com.booksell.dao.LivreDAO;
+import com.booksell.factories.ErreurManager;
+import com.booksell.factories.ObjectFactory;
+import com.booksell.modele.*;
+
 import javax.servlet.http.HttpSession;
 
 /**

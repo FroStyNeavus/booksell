@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.Booksell.entites;
+package com.booksell.entites;
 
 import static org.junit.Assert.assertEquals;
 
-import com.Booksell.modele.Utilisateur;
+import com.booksell.modele.Utilisateur;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;

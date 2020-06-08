@@ -4,7 +4,7 @@
     Author     : PC-WMT
 --%>
 
-<%@page import="com.Booksell.modele.Utilisateur" %>
+<%@page import="com.booksell.modele.Utilisateur" %>
 <%@page contentType="text/html" pageEncoding="UTF-8" %>
 <!DOCTYPE html>
 <html>

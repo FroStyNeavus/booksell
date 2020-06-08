@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.Booksell.controleur;
+package com.booksell.controleur;
 
-import com.Booksell.dao.AnnonceDAO;
-import com.Booksell.modele.AbstractAction;
-import com.Booksell.modele.AnnonceDTO;
-import com.Booksell.modele.ConnectionManager;
+import com.booksell.dao.AnnonceDAO;
+import com.booksell.modele.AbstractAction;
+import com.booksell.modele.AnnonceDTO;
+import com.booksell.modele.ConnectionManager;
 
 import java.util.List;
 

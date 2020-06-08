@@ -4,10 +4,10 @@
     Author     : PC-WMT
 --%>
 
-<%@page import="com.Booksell.modele.AnnonceDTO" %>
+<%@page import="com.booksell.modele.AnnonceDTO" %>
 <%@page import="java.util.LinkedList" %>
 <%@page import="java.util.List" %>
-<%@page import="com.Booksell.modele.Annonce" %>
+<%@page import="com.booksell.modele.Annonce" %>
 <%@page contentType="text/html" pageEncoding="UTF-8" %>
 
 <%@include file="gabarit.jsp" %>

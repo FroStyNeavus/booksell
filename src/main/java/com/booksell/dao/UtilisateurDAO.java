@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.Booksell.dao;
+package com.booksell.dao;
 
-import com.Booksell.modele.Annonce;
-import com.Booksell.modele.ConnectionManager;
-import com.Booksell.modele.Utilisateur;
+import com.booksell.modele.Annonce;
+import com.booksell.modele.ConnectionManager;
+import com.booksell.modele.Utilisateur;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

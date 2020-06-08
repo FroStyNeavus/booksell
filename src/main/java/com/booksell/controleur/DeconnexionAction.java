@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.Booksell.controleur;
+package com.booksell.controleur;
 
-import com.Booksell.modele.AbstractAction;
+import com.booksell.modele.AbstractAction;
 
 import javax.servlet.http.HttpSession;
 

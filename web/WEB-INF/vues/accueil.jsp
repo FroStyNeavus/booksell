@@ -3,10 +3,10 @@
     Created on : 11-Oct-2019, 12:07:16 AM
     Author     : PC
 --%>
-<%@page import="com.Booksell.modele.ConnectionManager" %>
+<%@page import="com.booksell.modele.ConnectionManager" %>
 <%@page import="java.util.Random" %>
-<%@page import="com.Booksell.dao.LivreDAO" %>
-<%@page import="com.Booksell.modele.Livre" %>
+<%@page import="com.booksell.dao.LivreDAO" %>
+<%@page import="com.booksell.modele.Livre" %>
 <%@include file="gabarit.jsp" %>
 <%@include file="navbar.jsp" %>
 

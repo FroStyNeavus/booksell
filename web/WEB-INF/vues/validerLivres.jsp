@@ -5,7 +5,7 @@
 --%>
 
 <%@page import="java.util.LinkedList" %>
-<%@page import="com.Booksell.modele.Livre" %>
+<%@page import="com.booksell.modele.Livre" %>
 <%@page contentType="text/html" pageEncoding="UTF-8" %>
 <%@include file="gabarit.jsp" %>
 <!DOCTYPE html>
