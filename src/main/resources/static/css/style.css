@@ -1,0 +1,131 @@
+
+header p{
+
+	text-align: center;
+}
+
+header li{
+
+	text-align: center;
+	list-style: none;
+
+}
+
+
+body h1{
+
+	text-align: center;
+	text-decoration: underline;
+}
+
+.Titre h2{
+
+	text-align: left;
+	font-weight: bold;
+}
+
+
+
+
+
+.column {
+  float: left;
+  width: 30%;
+  height: 180px;
+}
+
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column li{
+
+	padding-bottom: 10px;
+	list-style-type: none;
+}
+
+.column2 {
+  float: left;
+  width: 30%;
+  height: 200px;
+}
+
+
+.tableau{
+
+	border: 0;
+
+}
+.tableau td{
+
+	padding-right: 150px;
+}
+a{
+  color: red;
+}
+
+/*Dropdown NAV*/
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
