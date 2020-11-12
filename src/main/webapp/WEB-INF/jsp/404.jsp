@@ -5,7 +5,7 @@
 --%>
 <%@page import="java.util.ArrayList" buffer="64kb" errorPage="erreur.jsp" %>
 <%@page contentType="text/html" pageEncoding="UTF-8" %>
-<%@include file="../vues/gabarit.jsp" %>
+<%@include file="gabarit.jsp" %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -32,6 +32,6 @@
 </section>
 </body>
 <footer>
-    <%@include file="../vues/footer.jsp" %>
+    <%@include file="footer.jsp" %>
 </footer>
 </html>
